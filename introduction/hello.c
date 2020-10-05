@@ -5,7 +5,7 @@ int main(){
 	 * Program
 	 * in C
 	 */
-	printf("Hello World!");
+	printf("Hola Mundo!");
 	//Comment
 	return 0;
 }
